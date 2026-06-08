@@ -52,6 +52,12 @@
 
 body {
   margin: 0;
+  font-family: 'Inter', sans-serif;
+  /* A smooth, tech-focused subtle gray-blue gradient */
+  background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+  background-attachment: fixed;
+  color: #1e293b;
+  min-height: 100vh;
 }
 
 #root {
