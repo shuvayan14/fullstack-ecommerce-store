@@ -37,5 +37,5 @@ To spin up this repository on your local system, follow these execution phases:
 
 ### 1. Clone the Project Workspace
 ```bash
-git clone [https://github.com/YOUR_USERNAME/ecommerce-store.git](https://github.com/YOUR_USERNAME/ecommerce-store.git)
-cd ecommerce-store
+git clone https://github.com/shuvayan14/fullstack-ecommerce-store.git
+cd fullstack-ecommerce-store
