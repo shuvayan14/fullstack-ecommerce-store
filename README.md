@@ -1,4 +1,4 @@
-# 🛒 Full-Stack MERN E-Commerce Store
+# 🛒 Full-Stack MERN E-Commerce Store(APEX)
 
 A complete, production-ready full-stack online marketplace built using the **MERN** stack (MongoDB, Express, React, Node.js). This application features secure user authentication, product search/filtering configurations, a persistent shopping cart state, a secure administrative dashboard, and a live integrated Stripe checkout pipeline.
 
